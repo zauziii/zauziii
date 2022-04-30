@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zhi Zhou. Current statistical researcher at Finnish Institute for Health and Welfare (THL). 
 - 👀 I’m interested in statistical analysis, machine learning and such. 
 - 🌱 I’m currently learning python and learning how to conduct proper statistical analyses.
-- 💞️ I’m looking a PhD position that allows me to combine my studies and work at THL.
+- 💞️ I’m looking an opporturnity to start something different, like as a data analyst.
 - 📫 How to reach me ...
 
 <!---
