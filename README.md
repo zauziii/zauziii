@@ -2,7 +2,7 @@
 - 👀 I’m interested in statistical analysis, machine learning and such. 
 - 🌱 I use R for most of work and I am comfortable with python.
 - 💞️ Keep moving.
-- 📫 Please check my LinkedIn for more information.
+- 📫 Please check my [LinkedIn](https://www.linkedin.com/in/zauziii/) for more information.
 
 <!---
 zauziii/zauziii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
