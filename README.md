@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zhi Zhou. Current statistical researcher at Finnish Institute for Health and Welfare (THL). 
+- 👋 Hi, I’m Zhi Zhou. Previous statistical researcher at Finnish Institute for Health and Welfare (THL). 
 - 👀 I’m interested in statistical analysis, machine learning and such. 
 - 🌱 I use R for most of work and I am comfortable with python.
 - 💞️ Keep moving.
